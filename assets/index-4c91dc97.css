@@ -2,6 +2,10 @@
   src: url(../font/Vertiky.ttf);
   font-family: Vertiky;
 }
+@font-face {
+  src: url(../font/Caribbean.ttf);
+  font-family: Caribbean;
+}
 
 /* 테마 변수 */
 :root {
